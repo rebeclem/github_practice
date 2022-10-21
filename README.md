@@ -8,3 +8,5 @@ Practicing making a repository for summer R group
 * Second item on list
 * something else
 
+[How to set up github and Rstudio](rgit.md)
+
